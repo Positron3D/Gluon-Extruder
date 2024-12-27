@@ -1,254 +1,200 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-
-<svg
-   viewBox="0 0 210.51138 109.06277"
-   height="109.06277"
-   width="210.51138"
-   xml:space="preserve"
-   id="svg1011"
-   version="1.1"
-   sodipodi:docname="licenses.svg"
-   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"><sodipodi:namedview
-     id="namedview1"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#505050"
-     inkscape:zoom="10.755275"
-     inkscape:cx="105.29717"
-     inkscape:cy="39.654962"
-     inkscape:window-width="5120"
-     inkscape:window-height="1369"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g1213-6" /><metadata
-     id="metadata1017"><rdf:rdf><cc:work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:work></rdf:rdf></metadata><defs
-     id="defs1015"><clipPath
-       id="clipPath1029"
-       clipPathUnits="userSpaceOnUse"><path
-         id="path1027"
-         d="M 0,0 H 365760 V 205740 H 0 Z" /></clipPath></defs><g
-     transform="matrix(1.3333333,0,0,-1.3333333,-3.4343762,536.56561)"
-     id="g1019"><g
-       transform="matrix(1,0,0,-1,0,405)"
-       id="g1021"><g
-         transform="scale(0.0019685)"
-         id="g1023"><g
-           clip-path="url(#clipPath1029)"
-           id="g1025"><g
-             id="g1037"
-             inkscape:label="Canvas"><g
-               id="g1039"><path
-                 id="path1041"
-                 style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
-                 d="M 1499,1499 H 81323 V 42671 H 1499 Z" /></g><path
-               id="path1043"
-               style="fill:none;stroke:#595959;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
-               d="M 1499,1499 H 81323 V 42671 H 1499 Z" /></g><g
-             id="g1045"
-             inkscape:label="1. Divider"><g
-               id="g1047"><g
-                 id="g1049"><path
-                   id="path1051"
-                   style="fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:none"
-                   d="M 3882.196,12543.278 H 78942.195" /></g></g><path
-               id="path1053"
-               style="fill:none;stroke:#595959;stroke-width:1524;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
-               d="M 3882.196,12543.278 H 78942.195" /></g><g
-             id="g1055"
-             inkscape:label="Open Source Licenses Bounding Box"><g
-               id="g1057"><g
-                 id="g1059"><path
-                   id="path1061"
-                   style="fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:none"
-                   d="M 4509.141,3507.0806 H 78309.14 V 11043.08 H 4509.141 Z" /></g></g></g><g
-             transform="scale(381)"
-             id="g1063"
-             inkscape:label="Open Source Licenses"><g
-               transform="translate(11.835016,9.204936)"
-               id="g1065"><g
-                 id="g1067"><text
-                   id="text1071"
-                   style="font-variant:normal;font-weight:bold;font-size:16px;font-family:'Helvetica Neue','Helvetica',Arial,sans-serif;-inkscape-font-specification:HelveticaNeue-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                   transform="translate(0,15.749763)"><tspan
-                     id="tspan1069"
-                     y="0"
-                     x="0 12.432 22.191999 31.375999 40.848 45.279999 55.647999 65.407997 74.879997 80.991997 90.176003 99.360001 103.792 113.264 117.376 126.56 135.744 145.216 153.808 162.992 171.584">Open Source Licenses </tspan></text></g></g></g><g
-             transform="scale(381)"
-             id="g1073" /><g
-             id="g1075"
-             inkscape:label="Hardware Bounding Box"><g
-               id="g1077"><g
-                 id="g1079"><path
-                   id="path1081"
-                   style="fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:none"
-                   d="M 4811.468,13579.788 H 40151.47 v 7535.999 H 4811.468 Z" /></g></g></g><g
-             transform="scale(381)"
-             id="g1083"
-             inkscape:label="Hardware"><g
-               transform="translate(12.628525,35.642487)"
-               id="g1085"><g
-                 id="g1087"><text
-                   id="text1091"
-                   style="font-variant:normal;font-weight:normal;font-size:10.6667px;font-family:'Helvetica Neue','Helvetica',Arial,sans-;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                   transform="translate(0,13.629764)"><tspan
-                     id="tspan1089"
-                     y="0"
-                     x="0 7.7013335 13.429334 16.789333 23.104 31.178667 36.90667 40.266666">Hardware</tspan></text></g></g></g><g
-             transform="scale(381)"
-             id="g1093" /><g
-             id="g1095"
-             inkscape:label="Software Bounding Box"><g
-               id="g1097"><g
-                 id="g1099"><path
-                   id="path1101"
-                   style="fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:none"
-                   d="M 4811.468,22147.285 H 40151.47 v 7536 H 4811.468 Z" /></g></g></g><g
-             transform="scale(381)"
-             id="g1103"
-             inkscape:label="Software"><g
-               transform="translate(12.628525,58.129356)"
-               id="g1105"><g
-                 id="g1107"><text
-                   id="text1111"
-                   style="font-variant:normal;font-weight:normal;font-size:10.6667px;font-family:'Helvetica Neue','Helvetica',Arial,sans-;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                   transform="translate(0,13.629764)"><tspan
-                     id="tspan1109"
-                     y="0"
-                     x="0 6.9013333 13.024 16.170668 19.52 27.594667 33.322666 36.682667">Software</tspan></text></g></g></g><g
-             transform="scale(381)"
-             id="g1113" /><g
-             id="g1115"
-             inkscape:label="Documentation Bounding Box"><g
-               id="g1117"><g
-                 id="g1119"><path
-                   id="path1121"
-                   style="fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:none"
-                   d="m 4811.227,30714.783 h 35340 v 7535.997 h -35340 z" /></g></g></g><g
-             transform="scale(381)"
-             id="g1123"
-             inkscape:label="Documentation"><g
-               transform="translate(12.627893,80.61623)"
-               id="g1125"><g
-                 id="g1127"><text
-                   id="text1131"
-                   style="font-variant:normal;font-weight:normal;font-size:10.6667px;font-family:'Helvetica Neue','Helvetica',Arial,sans-;-inkscape-font-specification:HelveticaNeue;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                   transform="translate(0,13.629764)"><tspan
-                     id="tspan1129"
-                     y="0"
-                     x="0 7.5093336 13.632 19.360001 25.290667 34.389336 40.117336 46.048 49.397335 55.125336 58.474667 60.84267 66.965332">Documentation</tspan></text></g></g></g><g
-             transform="scale(381)"
-             id="g1133" /><g
-             id="g1135"
-             inkscape:label="2. Divider"><g
-               id="g1137"><g
-                 id="g1139"><path
-                   id="path1141"
-                   style="fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:none"
-                   d="M 3882.196,39149.8 H 78942.195" /></g></g><path
-               id="path1143"
-               style="fill:none;stroke:#595959;stroke-width:1524;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
-               d="M 3882.196,39149.8 H 78942.195" /></g><g
-             id="g1145"
-             inkscape:label="Divider"><g
-               id="g1147"><g
-                 id="g1149"><path
-                   id="path1151"
-                   style="fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:none"
-                   d="M 3255.2507,30714.947 H 78315.25" /></g></g><path
-               id="path1153"
-               style="fill:none;stroke:#595959;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
-               d="M 3255.2507,30714.947 H 78315.25" /></g><g
-             id="g1155"
-             inkscape:label="Divider"><g
-               id="g1157"><g
-                 id="g1159"><path
-                   id="path1161"
-                   style="fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:none"
-                   d="M 3882.196,21745.566 H 78942.195" /></g></g><path
-               id="path1163"
-               style="fill:none;stroke:#595959;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
-               d="M 3882.196,21745.566 H 78942.195" /></g><g
-             id="g1165"
-             inkscape:label="CC HW Bounding Box"><g
-               id="g1167"><g
-                 id="g1169"><path
-                   id="path1171"
-                   style="fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:none"
-                   d="M 42970.066,13638.395 H 78310.06 v 7536.001 H 42970.066 Z" /></g></g></g><g
-             transform="scale(381)"
-             id="g1183" /><g
-             id="g1185"
-             inkscape:label="CC SW Bounding Box"><g
-               id="g1187"><g
-                 id="g1189"><path
-                   id="path1191"
-                   style="fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:none"
-                   d="M 42970.066,22205.893 H 78310.06 v 7536 H 42970.066 Z" /></g></g></g><g
-             transform="scale(381)"
-             id="g1193"
-             inkscape:label="CC-BY-4.0"><g
-               transform="translate(112.78233,58.283184)"
-               id="g1195"><g
-                 id="g1197"><text
-                   y="13.629764"
-                   x="92.784546"
-                   id="text1201"
-                   style="font-variant:normal;font-weight:bold;font-size:10.6667px;font-family:'Helvetica Neue','Helvetica',Arial,sans-;-inkscape-font-specification:HelveticaNeue-Bold;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"><tspan
-                     style="text-align:end;text-anchor:end"
-                     y="13.629764"
-                     x="92.784546"
-                     id="tspan1199">CC-BY-4.0</tspan></text></g></g></g><g
-             transform="scale(381)"
-             id="g1203" /><g
-             id="g1205"
-             inkscape:label="CC DOC Bounding Box"><g
-               id="g1207"><g
-                 id="g1209"><path
-                   id="path1211"
-                   style="fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:none"
-                   d="M 42969.824,30773.39 H 78309.83 v 7536 H 42969.824 Z" /></g></g></g><g
-             transform="matrix(381,0,0,381,135.54911,0)"
-             id="g1213"
-             inkscape:label="CC-BY-SA-4.0"><g
-               transform="translate(112.78169,80.77006)"
-               id="g1215"><g
-                 id="g1217"><text
-                   y="13.629764"
-                   x="92.765083"
-                   id="text1221"
-                   style="font-variant:normal;font-weight:bold;font-size:10.6667px;font-family:'Helvetica Neue','Helvetica',Arial,sans-;-inkscape-font-specification:HelveticaNeue-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"><tspan
-                     style="text-align:end;text-anchor:end"
-                     y="13.629764"
-                     x="92.765083"
-                     id="tspan1219">CC-BY-SA-4.0</tspan></text></g></g></g><g
-             transform="scale(381)"
-             id="g1223" /></g></g></g><g
-       transform="matrix(0.7499985,0,0,-0.7499985,0.01860355,438.66618)"
-       id="g1213-6"
-       inkscape:label="CC-BY-SA-4.0"><g
-         transform="translate(112.78169,80.77006)"
-         id="g1215-5"><g
-           id="g1217-7"><text
-             y="13.629764"
-             x="92.765083"
-             id="text1221-6"
-             style="font-variant:normal;font-weight:bold;font-size:10.6667px;font-family:'Helvetica Neue', Helvetica, Arial, sans-;-inkscape-font-specification:HelveticaNeue-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"><tspan
-               style="text-align:end;text-anchor:end"
-               y="13.629764"
-               x="92.765083"
-               id="tspan1219-0">CC-BY-SA-4.0</tspan></text></g></g></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg1011" inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)" sodipodi:docname="licenses.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 210.5 109.1"
+	 style="enable-background:new 0 0 210.5 109.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st2{fill:none;stroke:#595959;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill-opacity:0;}
+	.st4{fill:none;stroke:#595959;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st5{font-family:'Arial-BoldMT';}
+	.st6{font-size:16px;}
+	.st7{font-family:'ArialMT';}
+	.st8{font-size:10.6667px;}
+	.st9{font-family:'MyriadPro-Regular';}
+	.st10{font-size:12px;}
+</style>
+<sodipodi:namedview  bordercolor="#eeeeee" borderopacity="1" id="namedview1" inkscape:current-layer="g1213-6" inkscape:cx="105.29717" inkscape:cy="39.654962" inkscape:deskcolor="#505050" inkscape:pagecheckerboard="0" inkscape:pageopacity="0" inkscape:showpageshadow="0" inkscape:window-height="1369" inkscape:window-maximized="1" inkscape:window-width="5120" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:zoom="10.755275" pagecolor="#505050">
+	</sodipodi:namedview>
+<g id="g1019" transform="matrix(1.3333333,0,0,-1.3333333,-3.4343762,536.56561)">
+	<g id="g1021" transform="matrix(1,0,0,-1,0,405)">
+		<g id="g1023" transform="scale(0.0019685)">
+			<g>
+				<defs>
+					<rect id="SVGID_1_" x="-120" y="-67.5" width="960" height="540"/>
+				</defs>
+				<clipPath id="SVGID_2_">
+					<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+				</clipPath>
+				<g id="g1025" class="st0">
+					<g id="g1037" inkscape:label="Canvas">
+						<g id="g1039">
+							<path id="path1041" class="st1" d="M3,3h157.1v81H3V3z"/>
+						</g>
+						<path id="path1043" class="st2" d="M3,3h157.1v81H3V3z"/>
+					</g>
+					<g id="g1045" inkscape:label="1. Divider">
+						<g id="g1047">
+							<g id="g1049">
+								<path id="path1051" class="st3" d="M7.6,24.7h147.8"/>
+							</g>
+						</g>
+						<path id="path1053" class="st4" d="M7.6,24.7h147.8"/>
+					</g>
+					<g id="g1055" inkscape:label="Open Source Licenses Bounding Box">
+						<g id="g1057">
+							<g id="g1059">
+								<path id="path1061" class="st3" d="M8.9,6.9h145.3v14.8H8.9V6.9z"/>
+							</g>
+						</g>
+					</g>
+					<g id="g1063" transform="scale(381)" inkscape:label="Open Source Licenses">
+						<g id="g1065" transform="translate(11.835016,9.204936)">
+							<g id="g1067">
+								<text transform="matrix(1.968504e-03 0 0 1.968504e-03 -11.8117 -9.1558)" class="st5 st6">O</text>
+								<text transform="matrix(1.968504e-03 0 0 1.968504e-03 -11.7872 -9.1558)" class="st5 st6">p</text>
+								<text transform="matrix(1.968504e-03 0 0 1.968504e-03 -11.768 -9.1558)" class="st5 st6">e</text>
+								<text transform="matrix(1.968504e-03 0 0 1.968504e-03 -11.75 -9.1558)" class="st5 st6">n</text>
+								<text transform="matrix(1.968504e-03 0 0 1.968504e-03 -11.7313 -9.1558)" class="st5 st6"> </text>
+								<text transform="matrix(1.968504e-03 0 0 1.968504e-03 -11.7226 -9.1558)" class="st5 st6">S</text>
+								<text transform="matrix(1.968504e-03 0 0 1.968504e-03 -11.7022 -9.1558)" class="st5 st6">o</text>
+								<text transform="matrix(1.968504e-03 0 0 1.968504e-03 -11.683 -9.1558)" class="st5 st6">u</text>
+								<text transform="matrix(1.968504e-03 0 0 1.968504e-03 -11.6643 -9.1558)" class="st5 st6">r</text>
+								<text transform="matrix(1.968504e-03 0 0 1.968504e-03 -11.6523 -9.1558)" class="st5 st6">c</text>
+								<text transform="matrix(1.968504e-03 0 0 1.968504e-03 -11.6342 -9.1558)" class="st5 st6">e</text>
+								<text transform="matrix(1.968504e-03 0 0 1.968504e-03 -11.6161 -9.1558)" class="st5 st6"> </text>
+								<text transform="matrix(1.968504e-03 0 0 1.968504e-03 -11.6074 -9.1558)" class="st5 st6">L</text>
+								<text transform="matrix(1.968504e-03 0 0 1.968504e-03 -11.5888 -9.1558)" class="st5 st6">i</text>
+								<text transform="matrix(1.968504e-03 0 0 1.968504e-03 -11.5807 -9.1558)" class="st5 st6">c</text>
+								<text transform="matrix(1.968504e-03 0 0 1.968504e-03 -11.5626 -9.1558)" class="st5 st6">e</text>
+								<text transform="matrix(1.968504e-03 0 0 1.968504e-03 -11.5445 -9.1558)" class="st5 st6">n</text>
+								<text transform="matrix(1.968504e-03 0 0 1.968504e-03 -11.5259 -9.1558)" class="st5 st6">s</text>
+								<text transform="matrix(1.968504e-03 0 0 1.968504e-03 -11.5089 -9.1558)" class="st5 st6">e</text>
+								<text transform="matrix(1.968504e-03 0 0 1.968504e-03 -11.4909 -9.1558)" class="st5 st6">s</text>
+								<text transform="matrix(1.968504e-03 0 0 1.968504e-03 -11.474 -9.1558)" class="st5 st6"> </text>
+							</g>
+						</g>
+					</g>
+					<g id="g1073" transform="scale(381)">
+					</g>
+					<g id="g1075" inkscape:label="Hardware Bounding Box">
+						<g id="g1077">
+							<g id="g1079">
+								<path id="path1081" class="st3" d="M9.5,26.7H79v14.8H9.5V26.7z"/>
+							</g>
+						</g>
+					</g>
+					<g id="g1083" transform="scale(381)" inkscape:label="Hardware">
+						<g id="g1085" transform="translate(12.628525,35.642487)">
+							<g id="g1087">
+								<text transform="matrix(1.968504e-03 0 0 1.968504e-03 -12.6037 -35.5455)" class="st7 st8">H</text>
+							</g>
+						</g>
+					</g>
+					<g id="g1093" transform="scale(381)">
+					</g>
+					<g id="g1095" inkscape:label="Software Bounding Box">
+						<g id="g1097">
+							<g id="g1099">
+								<path id="path1101" class="st3" d="M9.5,43.6H79v14.8H9.5V43.6z"/>
+							</g>
+						</g>
+					</g>
+					<g id="g1113" transform="scale(381)">
+					</g>
+					<g id="g1123" transform="scale(381)" inkscape:label="Documentation">
+						<g id="g1125" transform="translate(12.627893,80.61623)">
+							<g id="g1127">
+								<text transform="matrix(1.968504e-03 0 0 1.968504e-03 -12.603 -80.4727)" class="st7 st8">D</text>
+								<text transform="matrix(1.968504e-03 0 0 1.968504e-03 -12.5883 -80.4727)" class="st7 st8">o</text>
+								<text transform="matrix(1.968504e-03 0 0 1.968504e-03 -12.5762 -80.4727)" class="st7 st8">c</text>
+								<text transform="matrix(1.968504e-03 0 0 1.968504e-03 -12.5649 -80.4727)" class="st7 st8">u</text>
+								<text transform="matrix(1.968504e-03 0 0 1.968504e-03 -12.5533 -80.4727)" class="st7 st8">m</text>
+								<text transform="matrix(1.968504e-03 0 0 1.968504e-03 -12.5353 -80.4727)" class="st7 st8">e</text>
+								<text transform="matrix(1.968504e-03 0 0 1.968504e-03 -12.5241 -80.4727)" class="st7 st8">n</text>
+								<text transform="matrix(1.968504e-03 0 0 1.968504e-03 -12.5124 -80.4727)" class="st7 st8">t</text>
+								<text transform="matrix(1.968504e-03 0 0 1.968504e-03 -12.5058 -80.4727)" class="st7 st8">a</text>
+								<text transform="matrix(1.968504e-03 0 0 1.968504e-03 -12.4945 -80.4727)" class="st7 st8">t</text>
+								<text transform="matrix(1.968504e-03 0 0 1.968504e-03 -12.4879 -80.4727)" class="st7 st8">i</text>
+								<text transform="matrix(1.968504e-03 0 0 1.968504e-03 -12.4833 -80.4727)" class="st7 st8">o</text>
+								<text transform="matrix(1.968504e-03 0 0 1.968504e-03 -12.4712 -80.4727)" class="st7 st8">n</text>
+							</g>
+						</g>
+					</g>
+					<g id="g1133" transform="scale(381)">
+					</g>
+					<g id="g1135" inkscape:label="2. Divider">
+						<g id="g1137">
+							<g id="g1139">
+								<path id="path1141" class="st3" d="M7.6,77.1h147.8"/>
+							</g>
+						</g>
+						<path id="path1143" class="st4" d="M7.6,60.5h147.8"/>
+					</g>
+					<g id="g1145" inkscape:label="Divider">
+						<g id="g1147">
+							<g id="g1149">
+								<path id="path1151" class="st3" d="M6.4,60.5h147.8"/>
+							</g>
+						</g>
+						<path id="path1153" class="st2" d="M7.7,60.5h147.8"/>
+					</g>
+					<g id="g1155" inkscape:label="Divider">
+						<g id="g1157">
+							<g id="g1159">
+								<path id="path1161" class="st3" d="M7.6,42.8h147.8"/>
+							</g>
+						</g>
+						<path id="path1163" class="st2" d="M7.6,42.8h147.8"/>
+					</g>
+					<g id="g1165" inkscape:label="CC HW Bounding Box">
+						<g id="g1167">
+							<g id="g1169">
+								<path id="path1171" class="st3" d="M84.6,26.8h69.6v14.8H84.6V26.8z"/>
+							</g>
+						</g>
+					</g>
+					<g id="g1183" transform="scale(381)">
+					</g>
+					<g id="g1185" inkscape:label="CC SW Bounding Box">
+						<g id="g1187">
+							<g id="g1189">
+								<path id="path1191" class="st3" d="M84.6,43.7h69.6v14.8H84.6V43.7z"/>
+							</g>
+						</g>
+					</g>
+					<g id="g1203" transform="scale(381)">
+					</g>
+					<g id="g1205" inkscape:label="CC DOC Bounding Box">
+						<g id="g1207">
+							<g id="g1209">
+								<path id="path1211" class="st3" d="M84.6,60.6h69.6v14.8H84.6V60.6z"/>
+							</g>
+						</g>
+					</g>
+					<g id="g1213" transform="matrix(381,0,0,381,135.54911,0)" inkscape:label="CC-BY-SA-4.0">
+						<g id="g1215" transform="translate(112.78169,80.77006)">
+							<g id="g1217">
+								<text transform="matrix(1.968504e-03 0 0 1.968504e-03 -112.8698 -80.6272)" class="st5 st8">CC-BY-SA-4.0</text>
+							</g>
+						</g>
+					</g>
+					<g id="g1223" transform="scale(381)">
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="g1213-6" transform="matrix(0.7499985,0,0,-0.7499985,0.01860355,438.66618)" inkscape:label="CC-BY-SA-4.0">
+		<g id="g1215-5" transform="translate(112.78169,80.77006)">
+			<g id="g1217-7">
+				<text transform="matrix(1.968003e-03 0 0 1.968003e-03 -112.5396 -35.7843)" class="st5 st8">CC-BY-SA-4.0</text>
+			</g>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1.968000e-03 0 0 1.968000e-03 -3.4097 -3.3368)" class="st9 st10">Hardware/CAD</text>
+</svg>
