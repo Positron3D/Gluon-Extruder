@@ -13,7 +13,7 @@ This extruder is curently in conceptual state and has not been tested. If you wi
 Please be sure to use [issues](https://github.com/Positron3D/Gluon-Extruder/issues) for discovered problems and feature requests.
 
 # Licenses
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 If you are manufacturing this Extruder or a close derivative, please put the `Positron Logo` visibily on your product and designate `Positron3D` as the inventor of this product. You can find the file inside the logos folder.
 
